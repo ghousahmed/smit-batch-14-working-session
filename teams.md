@@ -1,2 +1,4 @@
 # Team 1 (Ahmed - 1122, Ali 2323)
-# Team 2 (Muhammad Bilal khan 334002, Muhammad Umer 324197, Naqi 332530
+# Coding Knights (Umer Farooq 324000 , Huzaifa Khan 324567 , Usama 324369 , Muhammad Danish 326683 , Khizar 328020)
+# Team UAM  2 (Ubaid - 327674 , ali - 325862 , muzammil - 327636)
+# Team 2 (Bilal khan 334002, Muhammad Umer 324197, Naqi 332530)
