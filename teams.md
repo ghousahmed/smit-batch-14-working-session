@@ -3,4 +3,3 @@
 # HWI (Hussain - 328076, Wahab - 327246, Ibrahim)
 # Coding Knights (Umer Farooq 324000 , Huzaifa Khan 324567 , Usama 324369 , Muhammad Danish 326683 , Khizar 328020)
 # Team UAM  2 (Ubaid - 327674 , ali - 325862 , muzammil - 327636)
-# Team RAHAH (Atif-324850 , Hamza-327913 , Hyder-324720 , Ahmed-324261 , Rayan-327038)
